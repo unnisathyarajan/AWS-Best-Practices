@@ -17,3 +17,4 @@ Collection of AWS Best Practices across the web.
 - [Improve email deliver-ability using DKIM](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/easy-dkim.html)
 - [Improve email deliver-ability using SPF](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/spf.html)
 - [Impove email deliver-ability using MAIL_FROM](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/spf.html)
+- [Configure bounce/complaint notification using SNS](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/configure-sns-notifications.html)
